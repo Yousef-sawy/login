@@ -51,3 +51,13 @@ Problems with it can be raised on our forum, or as issues in the main repository
 ## Aabout this project 
 
 This is a simple php project using codeigniter framework . Project consists of a login,Register,dashboard and profile pages.
+
+
+
+![reg_val](https://github.com/user-attachments/assets/81a14e6c-c66c-497d-8f35-52a39769ee0b)
+![reg](https://github.com/user-attachments/assets/4233f537-dea1-44a6-b0fa-e539d404d6a7)
+![php](https://github.com/user-attachments/assets/2bc82942-d3dd-4929-89b6-48e5eb507f2d)
+![login_val](https://github.com/user-attachments/assets/e5420ca0-7db2-40d2-9c8e-ba470b694d3c)
+![login](https://github.com/user-attachments/assets/5b4edddc-bc5d-4685-8fd2-e0950053c9fc)
+![update](https://github.com/user-attachments/assets/faef0052-d892-4010-a745-e335a8b33a1d)
+
