@@ -48,28 +48,6 @@ FEATURE REQUESTS.
 This repository is a "distribution" one, built by our release preparation script.
 Problems with it can be raised on our forum, or as issues in the main repository.
 
-## Server Requirements
+## Aabout this project 
 
-PHP version 8.1 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-
-> [!WARNING]
-> - The end of life date for PHP 7.4 was November 28, 2022.
-> - The end of life date for PHP 8.0 was November 26, 2023.
-> - If you are still using PHP 7.4 or 8.0, you should upgrade immediately.
-> - The end of life date for PHP 8.1 will be December 31, 2025.
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-
-
-        ![update](https://github.com/user-attachments/assets/5fc3c6ca-fa84-488c-b35a-e6ff14551062)
-![reg_val](https://github.com/user-attachments/assets/6343f4db-2b90-4e8f-a182-601bdf26af83)
-![reg](https://github.com/user-attachments/assets/4d8784e4-722c-4e6a-ae4e-d75d055a89c8)
-![php](https://github.com/user-attachments/assets/84213d21-7aec-4f38-b18a-bdef1db86e49)
-![login_val](https://github.com/user-attachments/assets/f9a8e4aa-c660-4f98-a34a-fe06ae26fb0e)
-![login](https://github.com/user-attachments/assets/d86c2503-a2e5-4f62-a92b-37b73355e66b)
+This is a simple php project using codeigniter framework . Project consists of a login,Register,dashboard and profile pages.
